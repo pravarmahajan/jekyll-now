@@ -23,4 +23,4 @@ _Research Intern, Cloud Services Analytics_
 _Associate, Market Risk Quantification_
 
 ### Contact me
-firstname[dot]middleinitial[dot]lastname[at]gmail.com
+firstname [dot] middleinitial [dot] lastname [at] gmail.com
